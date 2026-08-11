@@ -1,15 +1,15 @@
 # 💫 About Me:
-🎓 IT Engineering student (2022–2026) with an 8.6 CGPA, ranked 1st in the IT department.
-💻 Skilled in Python, Java, JavaScript, and C, with strong DSA, DBMS, and OOP fundamentals.
-🌐 Full-stack developer experienced with HTML, CSS, React, Node.js, Express.js, MySQL, and MongoDB.
-☁️ Hands-on with AWS, Git, GitHub, and Linux for cloud and DevOps workflows.
-📊 Familiar with Excel and Power BI for data analysis.
-🚀 Built an Airbnb Clone — a full-stack rental platform with auth, listings, and booking.
-🤖 Developed an ML-based system converting gestures into speech for speech-impaired users.
-🏆 Certified in DSA with Java (Apna College) and AWS Cloud (LearnTube.ai).
-🎯 Passionate about solving real-world problems through clean, scalable code.
-📈 Always eager to learn new technologies and take on challenging projects.
-🤝 Looking to contribute as a software developer and grow in a collaborative team.<br>
+🎓 IT Engineering student (2022–2026) with an 8.6 CGPA, ranked 1st in the IT department.<br>
+💻 Skilled in Python, Java, JavaScript, and C, with strong DSA, DBMS, and OOP fundamentals.<br>
+🌐 Full-stack developer experienced with HTML, CSS, React, Node.js, Express.js, MySQL, and MongoDB.<br>
+☁️ Hands-on with AWS, Git, GitHub, and Linux for cloud and DevOps workflows.<br>
+📊 Familiar with Excel and Power BI for data analysis.<br>
+🚀 Built an Airbnb Clone — a full-stack rental platform with auth, listings, and booking.<br>
+🤖 Developed an ML-based system converting gestures into speech for speech-impaired users.<br>
+🏆 Certified in DSA with Java (Apna College) and AWS Cloud (LearnTube.ai).<br>
+🎯 Passionate about solving real-world problems through clean, scalable code.<br>
+📈 Always eager to learn new technologies and take on challenging projects.<br>
+🤝 Looking to contribute as a software developer and grow in a collaborative team.<br><br>
 
 
 ## 🌐 Socials:
