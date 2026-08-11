@@ -24,6 +24,7 @@
 ### Web Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic\&logo=react\&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic\&logo=express\&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic\&logo=bootstrap\&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic\&logo=ejs\&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white) 
 
 ### Databases
 
@@ -43,7 +44,7 @@
 
 ### Other
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic\&logo=latex\&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic\&logo=bootstrap\&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic\&logo=ejs\&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic\&logo=Canva\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic\&logo=Adobe%20Lightroom\&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic\&logo=riotgames\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic\&logo=latex\&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic\&logo=Adobe%20Lightroom\&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic\&logo=riotgames\&logoColor=white)
 
 
 <!--# 📊 GitHub Stats:
