@@ -11,6 +11,9 @@
 📈 Always eager to learn new technologies and take on challenging projects.<br>
 🤝 Looking to contribute as a software developer and grow in a collaborative team.<br><br>
 
+Deployed Project link 
+1.Roamly: (https://roamly-full-stack-project.onrender.com/listings/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_o_h_a_n_2_4_0_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-cherkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherkarrohan@gmail.com) 
